@@ -1,2 +1,2 @@
 # GerarCores
-Gera cores automaticamente já pré-definidos por algoritmo;
+apresenta cores Aleatórias automaticamente já pré-definidos por algoritmo acompanhando uma video aula;
